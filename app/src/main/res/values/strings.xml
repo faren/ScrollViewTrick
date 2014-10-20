@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">ScrollViewTrick</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="loremipsum" >
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent nec nunc tortor. Vivamus nulla augue, pellentesque sed ante id, vulputate dictum libero. Maecenas aliquam aliquam velit, eu ultrices nunc ornare in. Praesent mattis urna enim, vel fermentum libero fringilla vel. Donec orci sem, maximus vel ex et, vulputate pulvinar urna. Maecenas neque eros, vehicula ac libero ut, placerat euismod enim. Sed lobortis porta suscipit. Nulla egestas ac diam ut congue. Vivamus nunc lorem, efficitur sed arcu et, pellentesque tempus augue. Proin elementum orci risus, pulvinar egestas elit sollicitudin quis. Nulla facilisi. Duis porttitor, metus quis sodales convallis, dui nulla efficitur urna, facilisis mollis turpis augue non eros.
+
+    </string>
+
+</resources>
